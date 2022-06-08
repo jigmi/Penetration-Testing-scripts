@@ -1,3 +1,9 @@
+
+#This is a useful script to run multiple nmap commands and save them in a folder, this allows for a more quicker and efficient way to scan networks
+#in order to save time. This was created specifically for me to suceed in the OSCP as some machines may have ports open other than the top TCP 1000
+#common ones. As a result, this provides me with a full scan of the network whilst allowing me to continue with other imperative tasks.
+
+
 #!/bin/bash
 if [ -e /root/Desktop/nmapscans ] 
 then
