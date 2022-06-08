@@ -1,2 +1,2 @@
-# bashscripts
-Simple Nmap bashscript to suit my personal automation of nmap, where nmap script can run against multiple boxes to enumerate services and versions in order to increase efficiency.
+# Penetration Testing scripts
+Scripts I have made during my times practicing on boxes on platforms such as VHL and PWK OSCP. 
