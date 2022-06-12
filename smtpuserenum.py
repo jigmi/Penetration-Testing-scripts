@@ -1,5 +1,4 @@
 #This script will run a bruteforce against SMTP (PORT 25) with a specified username list. 
-
 #!/usr/bin/python
 import socket
 import sys
